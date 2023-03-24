@@ -1,3 +1,3 @@
 # calculator
-Чашкова Ксения
+Чашкова Ксения<br>
 https://kkseenniiaa.github.io/calculator/
