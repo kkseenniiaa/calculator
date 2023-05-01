@@ -10,8 +10,9 @@ body{
     padding: 0;
 }
 .wrapper{
-    height: 100vh;
+    height: 300vh;
     background:linear-gradient(135deg, #f0c1a2, #a3d8f0);
+    width: 300vh;
 }
 .calculator{
     position: absolute;
@@ -48,6 +49,9 @@ body{
     border: 3px solid rgb(255, 255, 255);
     font-family: 'Lobster', cursive;
     color: blanchedalmond;
+}
+.key__cl{
+    width: 330px;
 }
 .key-result{
     width: 323px;
